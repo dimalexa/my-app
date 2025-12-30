@@ -1,0 +1,1 @@
+export const birthdays = {'Alexandra Igorevna': new Date(2004, 7, 7), 'Olesya Alexandrovna': new Date(2005, 4, 15)};
