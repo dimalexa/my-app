@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.a187a030.css",
+    "main.js": "/my-app/static/js/main.abfd4204.js",
+    "static/js/453.96453769.chunk.js": "/my-app/static/js/453.96453769.chunk.js",
+    "static/media/slide4.jpg": "/my-app/static/media/slide4.6d56a2f6fc630b2231e4.jpg",
+    "static/media/slide5.jpg": "/my-app/static/media/slide5.b314d76c6cea08d61385.jpg",
+    "static/media/slide3.jpg": "/my-app/static/media/slide3.1734edcf884d9640a4e2.jpg",
+    "static/media/slide2.jpg": "/my-app/static/media/slide2.d0b860945786e7bd3437.jpg",
+    "static/media/slide1.jpg": "/my-app/static/media/slide1.88c84e45f1fb6ae62cf8.jpg",
+    "static/media/arrow.png": "/my-app/static/media/arrow.16d70ac4e80b705c945e.png",
+    "index.html": "/my-app/index.html",
+    "main.a187a030.css.map": "/my-app/static/css/main.a187a030.css.map",
+    "main.abfd4204.js.map": "/my-app/static/js/main.abfd4204.js.map",
+    "453.96453769.chunk.js.map": "/my-app/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a187a030.css",
+    "static/js/main.abfd4204.js"
+  ]
+}
